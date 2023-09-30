@@ -4,7 +4,7 @@ import org.testng.annotations.Test;
 
 public class SampleTest {
 
-	@Test
+	@Test(groups= "regression")
 	public void sampleTest()
 	{
 		System.out.println("--mysore");

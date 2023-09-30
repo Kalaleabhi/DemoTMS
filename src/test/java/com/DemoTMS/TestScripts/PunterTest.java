@@ -4,7 +4,7 @@ import org.testng.annotations.Test;
 
 public class PunterTest {
 
-	@Test
+	@Test(groups = "smoke")
 	public void PunterTest()
 	{
 		System.out.println("---nanjangudu");
