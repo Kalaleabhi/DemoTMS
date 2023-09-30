@@ -10,3 +10,4 @@ public class YenadruTest {
 		System.out.println("--Yake--");
 	}
 }
+	
